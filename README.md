@@ -3,7 +3,7 @@
 ## 文档
 
 * Node.js 官方文档：[http://nodejs.org/api/](http://nodejs.org/api/)
-* Node.js 中文文档：[http://nodejs.jsbin.cn/api/](http://nodejs.jsbin.cn/api/)
+* Node.js 中文文档：[http://nodeapi.ucdok.com/](http://nodeapi.ucdok.com/#/api/index.html)
 * Express 官方文档：[http://expressjs.com/](http://expressjs.com/)
 * Express 中文文档：[http://expressjs.jser.us/](http://expressjs.jser.us/)
 * Jade 官方文档：[http://jade-lang.com/](http://jade-lang.com/)
@@ -32,6 +32,7 @@
 ## 热门包
 
 * Grunt：[http://gruntjs.com/](http://gruntjs.com/) （英文）、[http://gruntjs.cn/](http://gruntjs.cn/)（中文）
+* Gulp：[http://gulpjs.com/](http://gulpjs.com/)
 * Yeoman：[http://yeoman.io/](http://yeoman.io/)
 * Socket.io：[http://socket.io/](http://socket.io/)
 * mocha：[http://visionmedia.github.io/mocha/](http://visionmedia.github.io/mocha/)
@@ -45,6 +46,8 @@
 
 ## Node.js 中文资料
 
+* [Node.js 教程](http://www.runoob.com/nodejs/nodejs-tutorial.html)
+* [NodeSchool](http://nodeschool.io/zh-cn/)
 * [七天学会 Node.js](http://nqdeng.github.io/7-days-nodejs/)
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [Node.js 中文资料导航](https://github.com/youyudehexie/node123)
@@ -66,6 +69,7 @@
 
 ## 活跃社区
 
+* Node.js中文网：[http://www.nodejs.net/](http://www.nodejs.net/)
 * cnodejs：[http://cnodejs.org/](http://cnodejs.org/)
 * nodejsbbs：[http://nodejsbbs.com/forum.php](http://nodejsbbs.com/forum.php)
 
